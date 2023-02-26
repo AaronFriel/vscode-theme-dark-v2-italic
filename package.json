@@ -1,0 +1,32 @@
+{
+  "name": "dark-v2-italic",
+  "displayName": "Dark+ V2 Italic",
+  "description": "The Dark+ V2 theme with a splash of italics.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/AaronFriel/vscode-theme-dark-v2-italic",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaronFriel/vscode-theme-dark-v2-italic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AaronFriel/vscode-theme-dark-v2-italic/issues",
+    "email": "mayreply@aaronfriel.com"
+  },
+  "icon": "./docs/icon.png",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark+ V2 Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark+ V2 Italic-color-theme.json"
+      }
+    ]
+  }
+}
