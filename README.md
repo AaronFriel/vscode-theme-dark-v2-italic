@@ -13,7 +13,7 @@ The screenshot below this theme with the "Caskaydia Code" remix of Cascadia Code
 
 I recommend [Microsoft's Cascadia Code](https://github.com/microsoft/cascadia-code) with script italics, patched with [Nerd Fonts](https://www.nerdfonts.com/) to add symbols. This font can be found in a fork of Nerd Fonts as "Caskaydia Code" https://github.com/AaronFriel/nerd-fonts/releases.
 
-The set of font ligature options enabled is enabled by setting `editor.fontLigatures` in settings to include stylistic set 1 (`'ss01'`). Additional options are available, see the [Cascadia Code repository](See: https://github.com/microsoft/cascadia-code) for more.
+The set of font ligature options enabled is enabled by setting `editor.fontLigatures` in settings to include stylistic set 1 (`'ss01'`). Additional options are available, see the [Cascadia Code repository](https://github.com/microsoft/cascadia-code) for more.
 
 The settings for this screenshot were:
 
